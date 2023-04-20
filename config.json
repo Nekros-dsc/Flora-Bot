@@ -1,0 +1,6 @@
+{
+    "token": "Put-Token-Here",
+    "mongo": "MongoUrl",
+    "owner": ["Owner-Id"],
+    "prefix": "Prefix"
+}
